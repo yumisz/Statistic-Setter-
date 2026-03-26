@@ -1,2 +1,2 @@
-# Statistic-Setter-
-A simples system to allow me to automatically create organized descriptions for my videos or whatever I want 
+# Statistic Setter
+A simple system to allow me to automatically create organized descriptions for my videos or whatever I want 
